@@ -1,0 +1,28 @@
+/* Özel stil eklemeleri */
+
+body {
+    background-color: #f8f9fa;
+}
+
+.user-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.user-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+.user-item img {
+    max-width: 100px;
+    height: auto;
+}
+
+.mt-3 {
+    margin-top: 1rem;
+}
